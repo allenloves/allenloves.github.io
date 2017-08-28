@@ -1,5 +1,6 @@
 ---
-layout : posts
+layout : default
+
 title : Introduction to Faust Language
 categories : notes
 tags : DSP Faust
