@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: default
 title: Second Viennese School
 categories: notes
 tags: history 20th

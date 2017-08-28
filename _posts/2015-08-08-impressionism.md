@@ -1,5 +1,5 @@
 ---
-layout : posts
+layout : default
 title : Impressionism
 categories : notes
 tags : history 20th

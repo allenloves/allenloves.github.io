@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: default
 title: Formal Structure of Schoenberg's Verklärte Nacht
 categories: notes
 tags: analyze
