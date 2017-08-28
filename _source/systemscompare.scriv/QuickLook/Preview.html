@@ -1,0 +1,82 @@
+<html>
+
+<head>
+<title>systemscompare</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+	body {background-color: #bac0c7}
+    p.binderItem {margin: 10.0px 0.0px 0.0px 05.0px; font-family:Cochin, Times, Courier, Arial, serif; font-size:14.0px;}
+    .page {border: 1px solid #727272; background: #fff}
+    hr {
+      border-top: 1px dashed #000;
+      border-bottom: 0px solid #fff;
+      color: #fff;
+      background-color: #fff;
+      height: 0px;
+  </style>
+</head>
+
+<body>
+
+<table border="0" width="100%" cellspacing="3">
+<tr>
+<td>
+
+<table class="page" width="100%" cellspacing="10" cellpadding="2">
+<tr>
+<td valign="top">
+
+<ul>
+<li>
+<p class="binderItem">---<br/>
+layout: posts<br/>
+title: Comparison of major computer synthesizer languages 2015<br/>
+categories: notes<br/>
+tag: synth<br/>
+---</p>
+</li>
+<li>
+<p class="binderItem"><strong>Preface: things in common</strong><br/>Modern music synthesis-composition language environments are deeply influenced by the concept of Max Mathew's MUSIC-N series.   In the Music-N system, a library of functions called unit generators (UGens, or opcodes) are built around signal processing and synthesis routines.  Then an instrument can be defined by constructing different UGens.   Then, another score file contains information such as frequency, duration, amplitude and others to generate the music piece.<br/>
+<br/>
+Overall, the MUSIC-N model i...</p>
+</li>
+<li>
+<p class="binderItem"><strong>CSound</strong><br/>Csound, as well as MUSIC-11, was originally developed in MIT by Barry Vercoe in 1986.  Vercoe followed MUSIC-N model initiated by Max Mathews at the Bell Labs.<br/>
+<br/>
+Just like other MUSIC-N system, Csound devided sound synthesizing process into two modules: instrument and score.  Csound system also saves these two modules into two different (.orc and .sco) files for composers to be able to reuse and try different combinations.  In Csound unified file code (.csd), those two parts of modules are tagged...</p>
+</li>
+<li>
+<p class="binderItem"><strong>Max/MSP and PureData</strong><br/>Both Max/MSP and Pure Data was developed by Miller Puckette.  He developed Max in the mid-80s in IRCAM to provide composers with an graphic programming interface for interactive computer music.  Later because of disagreeing of the decision of Max became a closed system, Puckette released an redesigned an open sourced version called Pure Data in 1996.  Despite some minor difference between these two, they are very similar from each other.<br/>
+<br/>
+Max and pd are both graphic programming environments.  Al...</p>
+</li>
+<li>
+<p class="binderItem"><strong>SuperCollider</strong><br/>SuperCollider was released in 1996 by James McCartney for real time audio synthesis and algorithmic composition.<br/>
+<br/>
+SuperCollider was designed to be expressive dynamic programming language to be played and controlled on real time.  The system structure is using server-client model.  The DSP module is handled on the server to make sure it's been played on real time.  The SuperCollider language (sclang) handler translates the language to OSC messages in order to control the SuperCollider DSP server ...</p>
+</li>
+<li>
+<p class="binderItem"><strong>Reaktor</strong><br/>Reaktor is a graphical modular software music studio developed my Native Instruments in 1996.  Users can combine or use it's preset modules to build their own synthesizer instruments, samplers, effects and sound design tools. As a commercial software, it supplies many factory preset libraries of instruments and effects, from emulations of classic synthesizers to futuristic sound design tools.  In addition Reaktor also has an active community that users build their own libraries for different pur...</p>
+</li>
+<li>
+<p class="binderItem"><strong>Chuck</strong><br/>Chuck is a strongly time based audio programming language for real time synthesis, composition and performance by Ge Wang in 2003.  Chuck programming language is loosely C like but in a concurrent scheme, which means the output of a function is on the right side of code.  The benefit of this programming design is to be able to create a stream of functions quickly with less codes. Besides unit generators, Chuck also provides unit analyzers for research and feature extractions.<br/>
+<br/>
+The down side of C...</p>
+</li>
+<li>
+<p class="binderItem"><strong>impromptu</strong><br/>Impromptu is a programming environment designed for live coding by Andrew Sorensen in 2006.  It also contains sound synthesis modules and unit generators.  Sound modules, variables and functions can be redefined and changed to take effect immediately.  There is also scheduling in Scheme for composers to code events to be executed on distinated time. Furthermore it can work as a host of plug-in AU instruments and use them for audio synthesis and effects.  It also allows users to directly program ...</p>
+</li>
+</ul>
+
+</td>
+<td width="8">
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+- name: fmCalculator
+  git: https://github.com/allenloves/fmCalculator
+  note: This is a small app that caltulates the ourcome of spectrum frequencies from FM synthesizing.
+
+- name: SuperSampler
+  note: A sampler synthesizer project on SuperCollider. The sampler is using audio content analysis techniques to make decisions on sampler systhesizing processing.
+  git: https://github.com/allenloves/SuperSampler

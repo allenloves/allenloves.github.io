@@ -1,0 +1,14 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Cochin;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural
+
+\f0\fs28 \cf0 SuperCollider was released in 1996 by James McCartney for real time audio synthesis and algorithmic composition.\
+\
+SuperCollider was designed to be expressive dynamic programming language to be played and controlled on real time.  The system structure is using server-client model.  The DSP module is handled on the server to make sure it's been played on real time.  The SuperCollider language (sclang) handler translates the language to OSC messages in order to control the SuperCollider DSP server (scsynth).  The scsynth is an independent sound generation application can be triggered without SuperCollider language.\
+\
+The SuperCollider audio server supports any number of inputs and outputs for multichannel setups.  It applies a bus system to allow dynamically restructure of the signal flow.  The node tree system handles the structure of synthesis to define the order of execution.  Recently, a new server called Supernova has been introduced to support multi-processor computation. The sclang is a object-oriented programming language inherited from Smalltalk with a syntax of Lisp or C.  \
+\
+Even though SuperCollider and it's server can be controlled by any other programs that sends OSC messages, supercollider also provides library for users to build GUI for their application.  Furthermore, recent research in Japan is creating a framework that allows SuperCollider programmer to create apps for iOS.\
+\
+The main strength of SuperCollider is on it's server/client model.  Because the DSP server is an independent application controlled by OSC messages, it can receive and execute control messages from different computers via the internet even globally.  It can open a new possibility of music performance.}

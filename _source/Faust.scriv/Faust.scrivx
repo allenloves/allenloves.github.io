@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Allen-MacBook" Modified="2017-08-12 03:46:06 -0500" ModID="B9881BF5-F755-4E22-8A0F-3FAB163830F9">
+    <Binder>
+        <BinderItem ID="0" UUID="21D3DE95-38E4-4FEB-A55F-8F5FA9E7750A" Type="DraftFolder" Created="2015-07-12 13:18:39 -0500" Modified="2015-07-12 13:18:39 -0500">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>4</SelectedSubdocumentIDs>
+                <CorkboardSettings>
+                    <FreeformMode>No</FreeformMode>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderID Position="1.186667,0.103333" TimeStamp="2015-07-12 14:20:23 -0500">3</IndexCardBinderID>
+                        <IndexCardBinderID Position="0.16,0.046667" TimeStamp="2015-07-12 14:20:23 -0500">4</IndexCardBinderID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="9" UUID="4963ADBD-F83E-4550-AB1A-FE76DF6833BE" Type="Text" Created="2015-07-28 21:26:53 -0500" Modified="2015-08-10 17:41:40 -0500">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CompileAsIs>Yes</CompileAsIs>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="93F89263-DD4C-49F9-9DC5-93EDA8907EFD" Type="Text" Created="2015-07-12 13:30:20 -0500" Modified="2015-07-28 21:36:45 -0500">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>56,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="3" UUID="7CB01255-6324-4A11-968E-15217CFACA76" Type="Text" Created="2015-07-12 13:18:39 -0500" Modified="2015-07-12 14:31:02 -0500">
+                    <Title>Introduction to Faust</Title>
+                    <MetaData>
+                        <LabelID>3</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="5" UUID="DEAABD20-83D6-4983-9339-063C367938C0" Type="Text" Created="2015-07-12 13:45:47 -0500" Modified="2015-07-12 14:32:32 -0500">
+                            <Title>Faust (Functional Audio Stream) is a programming language designed for digital signal processing.  After programming in Faust, the faust compiler translates your Faust code into C++ code for further programming.  Furthermore, it provide several structure wrappers that generates programs for lots of popular environments and platforms such as Max/MSP, SuperCollider, Pure Data, iPhone, Android, VST, Audio Unit, stand along application, web application and more.</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>462,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="6" UUID="D34E3008-15A4-423C-B9C3-EF1BC4959489" Type="Text" Created="2015-07-12 13:53:54 -0500" Modified="2015-07-12 14:23:41 -0500">
+                            <Title>Benefits of Faust</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>192,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="7EE855F0-3050-4153-AE27-E67D4DEB470B" Type="ResearchFolder" Created="2015-07-12 13:18:39 -0500" Modified="2015-07-12 13:18:39 -0500">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="317878F7-20C5-4425-A7C1-DC3718C3CDC1" Type="TrashFolder" Created="2015-07-12 13:18:39 -0500" Modified="2015-07-12 13:18:39 -0500">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="7" UUID="357D85D1-6F4E-4270-8491-970201627B4F" Type="Text" Created="2015-07-12 14:31:18 -0500" Modified="2015-07-12 14:31:18 -0500">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="9CEB11F5-C613-4837-89FA-73659D629EEA" Type="Text" Created="2015-07-25 21:51:46 -0500" Modified="2015-07-25 21:52:20 -0500">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="CA31E404-875F-48B6-83C9-6596064B2A3A" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="47D77522-1B5E-41C4-9B1A-B66F1052CACB" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="2" Color="0.163449 0.537756 0.110355">中文</Label>
+            <Label ID="3" Color="0.0 0.0 1.0">English</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectProperties>
+        <ProjectTitle>DSP Programming in Faust</ProjectTitle>
+        <AbbreviatedTitle></AbbreviatedTitle>
+        <FullName></FullName>
+        <LastName></LastName>
+        <FirstName></FirstName>
+    </ProjectProperties>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-08-09 09:02:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2017-08-12 03:46:16 -0500"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

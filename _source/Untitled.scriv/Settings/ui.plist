@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderIsCollapsed</key>
+	<false/>
+	<key>binderSelection</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>binderSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {191, 820}}</string>
+		<string>{{192, 0}, {858, 820}}</string>
+	</array>
+	<key>binderState</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+	</array>
+	<key>binderWidth</key>
+	<real>191</real>
+	<key>collectionsHeight</key>
+	<real>101</real>
+	<key>collectionsRepresentedBinderDocumentsInfo</key>
+	<dict>
+		<key>MainID</key>
+		<string></string>
+		<key>SupportingID</key>
+		<string></string>
+	</dict>
+	<key>collectionsTabListIsCollapsed</key>
+	<true/>
+	<key>editorSplitType</key>
+	<integer>0</integer>
+	<key>inspectorIsCollapsed</key>
+	<true/>
+	<key>inspectorWidth</key>
+	<real>227</real>
+	<key>mainDocumentEditor.binderDocuments</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>mainDocumentEditor.currentEditorViewMode</key>
+	<integer>0</integer>
+	<key>mainDocumentEditor.editorGroupsViewMode</key>
+	<integer>2</integer>
+	<key>mainDocumentEditor.hiddenOutlinerColumnIdentifiers</key>
+	<array>
+		<string>createdDate</string>
+		<string>modifiedDate</string>
+		<string>words</string>
+		<string>characters</string>
+		<string>includeInExport</string>
+		<string>pageBreakBefore</string>
+		<string>compileAsIs</string>
+		<string>targetCount</string>
+		<string>targetCountType</string>
+		<string>progress</string>
+		<string>totalWords</string>
+		<string>totalCharacters</string>
+		<string>allKeywords</string>
+		<string>totalTargetCount</string>
+		<string>totalProgress</string>
+	</array>
+	<key>mainDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {490.28571, 427.42853}}</string>
+	<key>mainDocumentEditor.textEditorState</key>
+	<dict>
+		<key>hasMultiplePages</key>
+		<false/>
+		<key>textScale</key>
+		<integer>175</integer>
+		<key>usesFacingPages</key>
+		<false/>
+	</dict>
+	<key>mainWindowFrame</key>
+	<string>-1320 838 1050 842 -1440 780 1440 900 </string>
+	<key>supportingDocumentEditor.hiddenOutlinerColumnIdentifiers</key>
+	<array>
+		<string>createdDate</string>
+		<string>modifiedDate</string>
+		<string>words</string>
+		<string>characters</string>
+		<string>includeInExport</string>
+		<string>pageBreakBefore</string>
+		<string>compileAsIs</string>
+		<string>targetCount</string>
+		<string>targetCountType</string>
+		<string>progress</string>
+		<string>totalWords</string>
+		<string>totalCharacters</string>
+		<string>allKeywords</string>
+		<string>totalTargetCount</string>
+		<string>totalProgress</string>
+	</array>
+	<key>supportingDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {621, 304}}</string>
+	<key>supportingDocumentEditor.selectedItemIDs</key>
+	<array/>
+	<key>supportingDocumentViewIsCurrent</key>
+	<false/>
+</dict>
+</plist>

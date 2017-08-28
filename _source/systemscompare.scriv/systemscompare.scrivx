@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Mac-of-Allen" Modified="2015-10-09 00:43:22 -0500" ModID="19CEDAC4-803D-43DC-86F7-2099D1200C47">
+    <Binder>
+        <BinderItem ID="0" UUID="4C83A1EC-6FEB-457D-AC66-300AFE67C5B0" Type="DraftFolder" Created="2015-10-05 21:48:41 -0500" Modified="2015-10-05 21:48:41 -0500">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="4AD1BE43-7EC6-4921-9D52-DED4E178B4D2" Type="Text" Created="2015-10-05 21:48:41 -0500" Modified="2015-10-05 22:08:03 -0500">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CompileAsIs>Yes</CompileAsIs>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>113,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" UUID="9BA4A240-534F-40F2-8B09-C9CB3F4C5907" Type="Text" Created="2015-10-05 22:33:29 -0500" Modified="2015-10-06 08:16:00 -0500">
+                    <Title>Preface: things in common</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>874,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="A10A44C9-ED54-4214-B400-AD626A1A3BF9" Type="Text" Created="2015-10-05 22:08:07 -0500" Modified="2015-10-08 23:06:29 -0500">
+                    <Title>CSound</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>84,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="C4C73789-4379-4E63-84CE-A4F535971C48" Type="Text" Created="2015-10-06 13:30:42 -0500" Modified="2015-10-06 18:37:49 -0500">
+                    <Title>Max/MSP and PureData</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>653,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" UUID="86E474E3-E9FD-41A5-9536-F7DADEC7AAA2" Type="Text" Created="2015-10-06 09:48:03 -0500" Modified="2015-10-06 13:30:41 -0500">
+                    <Title>SuperCollider</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1714,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="38060AA2-BA70-49D7-9DE2-BFDE6A6E68A5" Type="Text" Created="2015-10-08 22:36:25 -0500" Modified="2015-10-08 23:18:34 -0500">
+                    <Title>Reaktor</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1507,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="4D9D4328-D9AA-41E1-903B-3EA16A7C6649" Type="Text" Created="2015-10-08 23:25:47 -0500" Modified="2015-10-09 00:42:35 -0500">
+                    <Title>Chuck</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>805,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" UUID="23A62736-50D9-4F13-B1C9-BB6590927C91" Type="Text" Created="2015-10-08 23:26:00 -0500" Modified="2015-10-09 00:24:22 -0500">
+                    <Title>impromptu</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>885,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="92EE7B5A-8615-4D7A-A414-45CD94F30245" Type="ResearchFolder" Created="2015-10-05 21:48:41 -0500" Modified="2015-10-05 21:48:41 -0500">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="09256A0D-6A2A-4ED3-8333-221BB3F277F8" Type="TrashFolder" Created="2015-10-05 21:48:41 -0500" Modified="2015-10-05 21:48:41 -0500">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="646A172C-C1F6-4AFE-9005-1908912115EA" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="B364F464-08A9-44E3-A0F6-BEB4CA92CFA6" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-10-05 21:48:39 -0500" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="531" Characters="3361" Date="2015-10-08 22:35:25 -0500"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

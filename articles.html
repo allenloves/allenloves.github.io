@@ -1,59 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!--
-Design by TEMPLATED
-http://templated.co
-Released for free under the Creative Commons Attribution License
+---
+layout : default
+title : Articles
+---
 
-Name       : Prolific
-Description: A two-column, fixed-width design with a bright color scheme.
-Version    : 1.0
-Released   : 20120719
--->
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<title> Articles |  Allen Music</title>
-		<link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
-		<link rel="stylesheet" type="text/css" href="css/style.css" />
-	</head>
-	<body>
-		<div id="outer">
-			<div id="wrapper">
-				<div id="menu">
-				<ul>
-				<li class="first"><a href="index.html">Home</a></li>
-				<li><a href="about.html">About Allen</a></li>
-				<li><a href="articles.html">Articles</a></li>
-				<li><a href="music.html">Music</a></li>
-				<li><a href="codes.html">Codes</a></li>
-				<li><a href="others.html">Other Works</a></li>
-				<li class="last"><a href="http://emailmebutton.com/frame/view/15102"><img src="http://emailmebutton.com/images/emailme.png" border="0"/></a></li>
-				</ul>
-			<br class="clearfix" />
-			</div>
-								<div id="header">
-				<div id="logo">
-					<h1><a href="#">Allen Wu</a></h1>
-				</div>
-				<div id="search">
-					<form action="" method="post">
-						<div>
-							<input class="form-text" name="search" size="32" maxlength="64" />
-						</div>
-					</form>
-				</div>
-				</div>
-				<div id="page">
-					<!--Put Your Code Here-->
-					<h1>Articles</h1>
+<h1>Articles</h1>
 
 <p>
 <ul class="list">
-	
-		<li><a href="https://dl.dropboxusercontent.com/u/3165115/Shu_Cheng_Allen_Wu%20music%20work%20portfolio/Thesis%20and%20article/Death%20as%20a%20Symbol%20in%20Peony%20Pavilion.pdf">Death as a Symbol in Peony Pavilion</a></li>
-	
+	{% for item in site.data.article %}
+		<li><a href="{{ item.URL }}">{{ item.name }}</a></li>
+	{% endfor %}
 </ul>
 </p>
 
@@ -62,85 +18,12 @@ Released   : 20120719
 <h1>Study Notes</h1>
 <p>
 <ul class="list">
-	
-		
-			
-				<li><a href="./notes/systemcompare.html">Comparison of major computer synthesizer languages 2015</a></li>
-			
-		
-	
-		
-			
-				<li><a href="./notes/SynthHistory.html">The History of Electronic Sound Synthesizer</a></li>
-			
-		
-	
-		
-			
-				<li><a href="./notes/Bartok.html">Béla Bartók</a></li>
-			
-		
-	
-		
-			
-				<li><a href="./notes/Stravinsky.html">Stravinsky</a></li>
-			
-		
-	
-		
-			
-				<li><a href="./notes/2ndVienneseSchool.html">Second Viennese School</a></li>
-			
-		
-	
-		
-			
-				<li><a href="./notes/Expressionism.html">Expressionism</a></li>
-			
-		
-	
-		
-			
-				<li><a href="./notes/VerklarteNacht.html">Formal Structure of Schoenberg's Verklärte Nacht</a></li>
-			
-		
-	
-		
-			
-				<li><a href="./notes/Post_impressionism.html">Post impressionism, Satie and Les Six</a></li>
-			
-		
-	
-		
-			
-				<li><a href="./notes/impressionism.html">Impressionism</a></li>
-			
-		
-	
-		
-			
-				<li><a href="./notes/faust_intro.html">Introduction to Faust Language</a></li>
-			
-		
-	
-		
-			
-				<li><a href="./notes/20th_background.html">Historical background of early 20th century.</a></li>
-			
-		
-	
+	{% for post in site.posts %}
+		{% for category in post.categories %}
+			{% if category == "notes" %}
+				<li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
 </ul>
 </p>
-
-
-
-
-				<br class="clearfix" />
-				</div>
-			</div>
-			<div id="footer">
-			&copy; Allen Wu | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a><br/><br/>
-			</div>
-		</div>
-	</body>
-</html>

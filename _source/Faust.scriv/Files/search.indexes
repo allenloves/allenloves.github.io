@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>Introduction to Faust</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Benefits of Faust</Title>
+            <Text>There are several benefits using Faust for DSP programming.  First, the Faust language is very easy and elegant, lots of complicated DSP algorithms would only need one line of code in Faust.  </Text>
+        </Document>
+        <Document ID="4">
+            <Text># DSP Programming in Faust
+
+**A study note by Allen Wu**
+</Text>
+        </Document>
+        <Document ID="9">
+            <Text>---
+layout : posts
+title : Introduction to Faust Language
+categories : notes
+tags : DSP Faust
+---
+
+</Text>
+        </Document>
+        <Document ID="5">
+            <Title>Faust (Functional Audio Stream) is a programming language designed for digital signal processing.  After programming in Faust, the faust compiler translates your Faust code into C++ code for further programming.  Furthermore, it provide several structure wrappers that generates programs for lots of popular environments and platforms such as Max/MSP, SuperCollider, Pure Data, iPhone, Android, VST, Audio Unit, stand along application, web application and more.</Title>
+            <Text>Faust (Functional Audio Stream) is a programming language designed for digital signal processing.  After programming in Faust, the faust compiler translates your Faust code into C++ code for further programming.  Furthermore, it provide several structure wrappers that generates programs for lots of popular environments and platforms such as Max/MSP, SuperCollider, Pure Data, iPhone, Android, VST, Audio Unit, stand along application, web application and more.</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

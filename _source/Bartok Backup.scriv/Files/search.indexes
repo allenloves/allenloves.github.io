@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Text>---
+layout: posts
+title: Béla Bartók
+categories: notes
+tags: history, 20th
+---
+
+</Text>
+        </Document>
+        <Document ID="4">
+            <Title>Bartók's Composition Style</Title>
+            <Text>*  Mathematical approach for pitch materials
+	*  With constant interval contents
+		*  1-5 (c, c#, f#, g, c), also related to Hungarian and Slovak songs.
+		*  1-3 (c, c#, e, f, g#, a, c), Arabic influence.
+		*  1-2, octatonic scale
+	*  Golden section and Fibonacci series.
+*  Overriding sense of tonality
+	*  Modes
+	*  Bitonality, with different key signatures.
+	*  Harmony reinforced the interval content of his melodies
+		*  Sometimes Clusters
+*  Influence of eastern European folk songs
+
+	Bartók seldom directly quote folk tune in his music, however he applied various essences of folk music styles into his music.
+
+	* Rhythmic material
+		*  Parlando-rubato style, assymmetrical beats
+		*  Tempo giusto for regularized dance patterns.
+		*  e.g. Allegro Barbaro
+	*  Embellishment by glissando
+*  Influence of Baroque music
+	*  J.S. Bach
+	*  Scalatti sonatas
+		* e.g. Bartók Piano Concerto no. 1
+	*  Counterpoint techniques</Text>
+        </Document>
+        <Document ID="5">
+            <Title>Early Bartók</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>

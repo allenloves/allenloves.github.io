@@ -1,0 +1,20 @@
+					<div id="col2" class="box">
+						<h3>Articles</h3>
+						<p>
+							My study notes, materials, and codes.
+						</p>
+						<ul class="list">
+							{% for item in site.data.article limit: 4 %}
+								<li><a href="{{ item.URL }}">{{ item.name }}</a></li>
+							{% endfor %}
+							{% for post in site.posts limit: 6 %}
+								{% for category in post.categories %}
+									{% if category != "notes" %}
+									<li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+									{% endif %}
+								{% endfor %}
+							{% endfor %}
+							<li class = "last"><a href="codes.html">Codes</a></li>
+						</ul>
+						
+					</div>
