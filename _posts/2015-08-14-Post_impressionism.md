@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Post impressionism, Satie and Les Six
-categories: notes
 tags: history, 20th
 ---
 

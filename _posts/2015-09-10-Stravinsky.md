@@ -1,6 +1,5 @@
 ---
 layout: default
-categories: notes
 title: Stravinsky
 tags: history, 20th
 ---

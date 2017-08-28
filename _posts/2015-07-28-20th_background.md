@@ -1,7 +1,6 @@
 ---
 layout : default
 title : Historical background of early 20th century.
-categories : notes
 tags : history 20th
 ---
 

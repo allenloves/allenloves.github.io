@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Comparison of major computer synthesizer languages 2015
-categories: notes
 tag: synth
 ---
 

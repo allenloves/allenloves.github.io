@@ -1,7 +1,6 @@
 ---
 layout: default
 title: The History of Electronic Sound Synthesizer
-categories: notes
 tag: history 20th
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Expressionism
-categories: notes
 tag: history 20th
 ---
 
