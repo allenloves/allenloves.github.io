@@ -1,7 +1,7 @@
 ---
 layout : default
 title : Impressionism
-categories : notes
+categories : test
 tags : history 20th
 ---
 
