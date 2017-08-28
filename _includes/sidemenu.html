@@ -1,8 +1,0 @@
-					<div class="box">
-						<h3>Recent Activities</h3>
-						<ul class="list">
-							{% for item in site.data.activities limit:5 %}
-							<li><a href="{{ item.url }}">{{ item.title }}</a></li>
-							{% endfor %}
-						</ul>
-					</div>
