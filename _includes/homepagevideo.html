@@ -1,0 +1,15 @@
+				<div class="row divider">
+					{% for item in video limit:3 %}
+
+					<div class="3u">
+						<section>
+							<h2 class="title">{{ item.title }}</h2>
+							<p class="subtitle">{% if item.subtitle %} {{ item.subtitle }} {% endif %}</p>
+							<p>{{ item.embed }}</p>
+							<p class="button-style1"><a href="{{ item.url }}">{{item.title}}</a></p>
+						</section>
+					</div>
+
+					<% endfor %>
+
+				</div>
