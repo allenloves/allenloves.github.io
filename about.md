@@ -12,10 +12,10 @@ layout : default
 
 ## Summary ##
 
-
 Shu-Cheng Allen Wu is a DMA candidate of music composition and Fulbright scholar in University of  Illinois at Urbana Champaign.  The main research and interests in Allen’s doctorate studies are electronic music, including electro-acoustic music, algorithmic music composition, music programming, music information retrieval, live coding music and more.  During this period, Allen also work as a teaching assistant responsible for teaching freshman and sophomore music theory and aural skill.
 
 Allen have been a full time assistant professor in Asia-Pacific Institute of Creativity for 2 years, lecturer of computer music and multimedia in Tamkang University and Chaoyang University of Technology for 4 years.  Class he taught includes music composition and production for non music majors, multimedia art, art history, creativity and aesthetics, and more.  As a musician, Allen have many experiences as a conductor with choirs, theater, chamber music ensemble, wind orchestra, ancient instrument orchestra, live electronic music and etc..  Allen also had experience of composing and producing music for animations, short films and games.
+
 
 
 ## Current Position ##
