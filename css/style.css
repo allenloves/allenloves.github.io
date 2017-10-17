@@ -20,8 +20,8 @@ body, #skel-panels-pageWrapper {
 }
 
 h1, h2, h3 {
-	margin: 0.5em, 0em, 0em, 0em;
-	padding: 0em;
+	margin: 0em;
+	padding: 0.5em;
 	text-transform: none;
 	font-family: 'Oswald', sans-serif;
 	font-weight: 300;
