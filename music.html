@@ -1,0 +1,14 @@
+---
+layout : default
+title : Muisc Composition
+---
+
+<h1>Allen's Music Composition</h1>
+
+<p>
+<ul class = "list">
+{% for item in site.data.music %}
+	<li>{{ item.name }}{% if item.mediaURL %} (<a href="{{ item.mediaURL }}">listen</a>) {% endif %}{% if item.scoreURL %} (<a href="{{ item.scoreURL }}">score</a>) {% endif %}{% if item.codeURL %} (<a href="{{ item.codeURL }}">code</a>) {% endif %} : {{ item.note }} </li>
+{% endfor %}
+</ul>
+</p>
