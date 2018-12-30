@@ -18,20 +18,15 @@ With over ten years of teaching experience at the post-secondary level, Dr. Wu w
 # Education #
 
 **University of Illinois at Urbana-Champaign, USA**
-
 * Doctor of Music Art
 
 **Fu Jen University, Taiwan**
-
 * Master of Music
-
 * Bachelor of Fine Arts
-
 * Art Administration and Management Curriculum
 
 **National Sun Yat-Sen University**
-
-* Distance Education of MBA Curriculum (4 credits)
+* Distance Education of MBA Curriculum
 
 
 
