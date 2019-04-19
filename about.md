@@ -7,7 +7,7 @@ layout: default
 
 # Summary #
 
-
+<br/>
 
 Fulbright scholar, Shu-Cheng Allen Wu holds a DMA degree in music theory and composition from the University of Illinois in Urbana Champaign (UIUC). Dr. Wu’s research and interests include contemporary music composition, electronic music, electro-acoustic music, algorithmic music composition, music programming, music information retrieval, and live coding. He also has experience in composing and producing music for animations, short films and games and conducting choirs, theater, chamber music ensemble, wind orchestra, ethnic instrument ensembles.
 
