@@ -56,7 +56,23 @@
 							</ul>
 						</div>
 						<div id="box3">
-							{% include article.html %}
+							<h1>Articles</h1>
+
+							<p>
+								<ul class="list">
+									{% for item in site.data.article %}
+										<li><a href="{{ item.URL }}">{{ item.name }}</a></li>
+									{% endfor %}
+								</ul>
+							</p>
+							<h1>Codes</h1>
+							<p>
+								<ul class = "list">
+								{% for item in site.data.code %}
+									<li>{{ item.name }}{% if item.git %} (<a href="{{ item.git }}">git</a>) {% endif %} : {{ item.note }} </li>
+								{% endfor %}
+								</ul>
+							</p>
 						</div>
 
 						<br class="clear" />
