@@ -13,24 +13,23 @@
 - name: For Flute Solo
   mediaURL: https://www.youtube.com/watch?v=ILbw-YZaE2g
   note: Virtuostic piece for solo flute.
-  scoreURL: https://dl.dropboxusercontent.com/u/3165115/Shu_Cheng_Allen_Wu%20music%20work%20portfolio/Acoustic%20Instrument/Scores/For%20Flute%20Solo%20-%20Flute.pdf
-
+  scoreURL: https://www.dropbox.com/s/md95wa23aqojsuu/For%20Flute%20Solo%20-%20Flute.pdf?dl=0
+  
 - name: Synchornicity
-  scoreURL: https://dl.dropboxusercontent.com/u/3165115/Shu_Cheng_Allen_Wu%20music%20work%20portfolio/Acoustic%20Instrument/Scores/Synchornicity%20-%20Full%20Score.pdf
-  mediaURL: https://dl.dropboxusercontent.com/u/3165115/Shu_Cheng_Allen_Wu%20music%20work%20portfolio/Acoustic%20Instrument/Recordings/Synchornicity.mp3
+  scoreURL: https://www.dropbox.com/s/xehduy8vo3s2udh/Synchornicity%20-%20Full%20Score.pdf?dl=0
+  mediaURL: https://soundcloud.com/allenwu/wondering-for-violin-midi-realization
   note: for Flute, Clarinet, Piano, and String Quartet.
 
 - name: Wondering
-  mediaURL: https://dl.dropboxusercontent.com/u/3165115/Shu_Cheng_Allen_Wu%20music%20work%20portfolio/Acoustic%20Instrument/Recordings/Wondering%20for%20violin.mp3
-  scoreURL: https://dl.dropboxusercontent.com/u/3165115/Shu_Cheng_Allen_Wu%20music%20work%20portfolio/Acoustic%20Instrument/Scores/Wondering.pdf
-  note: for Violin and Piano
+  mediaURL: https://soundcloud.com/allenwu/wondering-for-violin-midi-realization
+  scoreURL: https://www.dropbox.com/s/ituznhjdueu312x/Wondering.pdf?dl=0
 
 - name: Woods
-  scoreURL: https://dl.dropboxusercontent.com/u/3165115/Shu_Cheng_Allen_Wu%20music%20work%20portfolio/Acoustic%20Instrument/Scores/Woods%20-%20Full%20Score.pdf
+  scoreURL: https://www.dropbox.com/s/ozqyp1mulzsk7la/Woods%20-%20Full%20Score.pdf?dl=0
   note: For Two Percussionists with Wood Instruments
 
 - name: Binbinlayan
-  scoreURL: https://dl.dropboxusercontent.com/u/3165115/Shu_Cheng_Allen_Wu%20music%20work%20portfolio/Acoustic%20Instrument/Scores/Binbinlayan.pdf
+  scoreURL: https://www.dropbox.com/s/fle3sgs1msmgy32/Binbinlayan.pdf?dl=0
   note: For Children's Choir from a Taiwanese Tribe
 
 - name: Live Coding Performance
