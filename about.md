@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Download Allen Wu's Resume pdf](https://www.dropbox.com/s/zgwim3c6vvotopa/Allen_Wu_Resume.pdf)
+[Download Allen Wu's Resume pdf](https://www.dropbox.com/s/zsmajezpx07eko1/Allen_Wu_Resume.pdf?dl=0)
 
 
 # Summary #
